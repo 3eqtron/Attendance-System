@@ -1,0 +1,2 @@
+rootProject.name='Horizon_Data_Pointage'
+include ':app'
